@@ -101,9 +101,9 @@ export default function Contact() {
 
       {/* Marquee for Mobile Number */}
       <Box sx={{ mt: 4, bgcolor: "#ffebee", p: 1, borderRadius: 2 }}>
-        <marquee behavior="scroll" direction="left" style={{ color: "#b71c1c", fontWeight: 700 }}>
+        <p behavior="scroll" direction="left" style={{ color: "#b71c1c", fontWeight: 700 }}>
           📞 Contact us at: +91 9876543210 | +91 9123456780
-        </marquee>
+        </p>
       </Box>
 
       {/* Footer */}
