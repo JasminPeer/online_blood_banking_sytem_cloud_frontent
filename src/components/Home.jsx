@@ -2,8 +2,6 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import bloodDonationImage from "../image/bllod.jpg";
 import {
-  AppBar,
-  Toolbar,
   Typography,
   Container,
   Grid,
